@@ -1,3 +1,4 @@
+// Higher order function
 // Used when you want to do summation or multiplications or another to the all of the element
 
 function mapExampleOne(){
